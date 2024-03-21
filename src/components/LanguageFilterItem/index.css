@@ -1,0 +1,22 @@
+/* Write your CSS here */
+.list-card {
+  margin-right: 10px;
+}
+
+.language-btn {
+  background-color: transparent;
+
+  border: none;
+
+  outline: none;
+}
+
+.active-btn {
+  height: 20px;
+  padding-left: 10px;
+  padding-right: 10px;
+  color: #0284c7;
+
+  border-radius: 10px;
+  border: 1px solid #0284c7;
+}
